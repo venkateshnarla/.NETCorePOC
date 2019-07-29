@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="94px" height="94px" viewBox="0 0 94 94" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>1FBBC90D-FE21-40F6-A2B2-D80D849A3009@1x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Visuhealth-Android" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="New-User-1" transform="translate(-55.000000, -115.000000)">
+            <g id="Profile" transform="translate(55.000000, 115.000000)">
+                <rect id="Rectangle" stroke="#979797" stroke-width="0.01" x="0.005" y="0.005" width="93.99" height="93.99"></rect>
+                <g id="Group-3" transform="translate(7.000000, 5.000000)">
+                    <g id="Group-2">
+                        <circle id="Oval-4" fill="#FFFFFF" cx="40" cy="40" r="40"></circle>
+                        <g id="Group" transform="translate(20.000000, 17.000000)" fill="#C7DFF1" fill-rule="nonzero">
+                            <path d="M27.1643403,23 C25.1213398,25.0430005 22.5486725,26.4050009 19.6733384,26.4050009 C16.7980043,26.4050009 14.225337,25.0430005 12.1823365,23 C5.22100135,23.7566669 0,26.1023341 0,32.3826691 C0,34.5013363 0.60533349,36.9226703 1.74033378,39.3440042 C6.50733501,43.5813386 12.8633367,46.154006 19.6733384,46.154006 C26.4833402,46.154006 32.8393418,43.5813386 37.606343,39.3440042 C38.6656766,36.9226703 39.3466768,34.577003 39.3466768,32.3826691 C39.3466768,26.1023341 34.2013422,23.7566669 27.1643403,23 Z" id="Shape"></path>
+                            <path d="M15.5214286,23.515625 C16.8571429,24.453125 18.4285714,25 20,25 C21.5714286,25 23.1428571,24.453125 24.4785714,23.515625 C28.3285714,20.9375 31,15.46875 31,10.546875 C31,3.828125 26.05,0 20,0 C13.95,0 9,3.828125 9,10.546875 C9,15.46875 11.6714286,20.9375 15.5214286,23.515625 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                    <circle id="Oval-5" fill="#008BD0" cx="63" cy="69" r="15"></circle>
+                    <g id="Material/Icons-white/add" transform="translate(51.000000, 57.000000)" fill="#FFFFFF">
+                        <polygon id="Shape" points="19 11 13 11 13 5 11 5 11 11 5 11 5 13 11 13 11 19 13 19 13 13 19 13"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>72B6D322-D18C-4882-A5EF-57BB8D871367@1x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Visuhealth-Android" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.8">
+        <g id="CaseLog-Drop-Down" transform="translate(-16.000000, -40.000000)">
+            <g id="AppBar">
+                <g id="Menu" transform="translate(16.000000, 40.000000)">
+                    <path d="M3,18 L21,18 L21,16 L3,16 L3,18 L3,18 Z M3,13 L21,13 L21,11 L3,11 L3,13 L3,13 Z M3,6 L3,8 L21,8 L21,6 L3,6 L3,6 Z" id="Shape" fill="#000000"></path>
+                    <rect id="bounds" stroke="#979797" stroke-width="0.01" x="0.005" y="0.005" width="23.99" height="23.99"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
